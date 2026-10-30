@@ -1,0 +1,25 @@
+{
+  "id": "/BudgetApp/",
+  "name": "Budget Pro",
+  "short_name": "Budget Pro",
+  "description": "A simple way to keep track of money coming in and going out.",
+  "start_url": "/BudgetApp/",
+  "scope": "/BudgetApp/",
+  "display": "standalone",
+  "background_color": "#d4a928",
+  "theme_color": "#d4a928",
+  "icons": [
+    {
+      "src": "icons/budgetpro-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/budgetpro-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
